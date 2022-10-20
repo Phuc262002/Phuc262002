@@ -5,7 +5,7 @@
 
 - 📫 How to contact me **phuc262002@gmail.com**
 
-<h2 align="center">🔥 GitHub stats 🔥</h2>
+<h2 align="center">🔥 GitHub Stats 🔥</h2>
 
 <div align="center">
     <a href="#">
