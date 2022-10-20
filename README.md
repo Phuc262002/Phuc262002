@@ -12,7 +12,7 @@
         <img width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phuc262002&layout=compact&theme=radical&langs_count=8" alt="">
     </a>
     <a href="#">
-        <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=phuc262002&count_private=true&show_icons=true&theme=radical" alt="">
+        <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Phuc262002&count_private=true&show_icons=true&theme=radical" alt="">
     </a>
 </div>
 
